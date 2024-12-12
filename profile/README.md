@@ -46,8 +46,8 @@
       <td>C764B4KY1602</td>
       <td>Gerry Desrian</td>
       <td>
-        <a href="https://github.com/">Github</a>
-        <a href="https://www.linkedin.com/in/">Linkedin</a>
+        <a href="https://github.com/iss4gerry">Github</a>
+        <a href="https://www.linkedin.com/in/gerry-desrian-136a59287/">Linkedin</a>
       </td>
     </tr>
     <tr>
