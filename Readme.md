@@ -72,8 +72,6 @@
 
 ## Technologies and Tools
 
-Below are the technologies and tools that we use to build Trexense.
-
 ### Machine Learning
 
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="androidstudio" ></code>
