@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/CeKulit/cekulit-assets/blob/main/assets/app/app_logo_hd.png" alt="CeKulit Logo" width="300"/>
+  <img src="" alt="" width="300"/>
   <h1>Trexense - Your Travel Companion</h1>
   <p><i>Trexense is a comprehensive travel companion that revolutionizes how travelers manage their trip expenses. This innovative app empowers users to take control of their travel budgets by providing real-time expense tracking, detailed trip planning, and easy access to hotel and event recommendations. With Trexense, travelers can effortlessly monitor their spending, make informed financial decisions, and ensure their adventures stay within budget without compromising on experiences.</i></p>
 </div>
