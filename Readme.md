@@ -78,7 +78,7 @@ Below are the technologies and tools that we use to build Trexense.
 
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="androidstudio" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" ></code>
-<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flash-Dark.svg" alt="flash" ></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flash" ></code>
 
 ### Cloud Computing
 
@@ -86,7 +86,7 @@ Below are the technologies and tools that we use to build Trexense.
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" ></code>
-<code><img height="27" src=https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" ></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="gcp" ></code>
 
 ### Mobile Development
