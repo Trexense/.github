@@ -83,8 +83,9 @@
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" ></code>
-<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" ></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="prisma" ></code>
+<code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" ></code>
 <code><img height="27" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="gcp" ></code>
 
 ### Mobile Development
